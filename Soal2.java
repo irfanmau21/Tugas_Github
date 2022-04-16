@@ -62,3 +62,4 @@ public class Soal2 {
 	}
 }
 // Ini perubahan yg coba dilakukan (nai)
+//Peubahan 2
