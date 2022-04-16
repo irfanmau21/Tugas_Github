@@ -40,4 +40,3 @@ public class Soal1 {
 		soal.cetak();
 	}
 }
-// Ini perubahan yg coba dilakukan (nai)
