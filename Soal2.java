@@ -61,3 +61,4 @@ public class Soal2 {
 		soal.menghitungHarga();
 	}
 }
+// Ini perubahan yg coba dilakukan (nai)
